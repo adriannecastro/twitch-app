@@ -30,7 +30,7 @@ const Routes: React.FC = () => (
         },
         labelStyle: {
           fontFamily: 'roboto_400',
-          fontSize: 11,
+          fontSize: 12,
           marginTop: 5,
         },
         inactiveTintColor: colors.black,
