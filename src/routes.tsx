@@ -42,7 +42,7 @@ const Routes: React.FC = () => (
       <Screen name="Following" 
       component={Following} 
       options={{
-        tabBarIcon: ({ size, focused}) => {
+        tabBarIcon: ({size, focused}) => {
           return (
             <Ionicons
             name ="md-heart"
@@ -56,7 +56,7 @@ const Routes: React.FC = () => (
       <Screen name="Discover" 
       component={ComingSoon} 
       options={{
-        tabBarIcon: ({ size, focused}) => {
+        tabBarIcon: ({size, focused}) => {
           return (
             <MaterialCommunityIcons
             name ="compass-outline"
@@ -69,7 +69,7 @@ const Routes: React.FC = () => (
       <Screen name="Browse" 
       component={ComingSoon} 
       options={{
-        tabBarIcon: ({ size, focused}) => {
+        tabBarIcon: ({size, focused}) => {
           return (
             <Ionicons
             name ="md-browsers"
@@ -82,7 +82,7 @@ const Routes: React.FC = () => (
       <Screen name="Esports" 
       component={ComingSoon} 
       options={{
-        tabBarIcon: ({ size, focused}) => {
+        tabBarIcon: ({size, focused}) => {
           return (
             <MaterialCommunityIcons
             name ="trophy-outline"
