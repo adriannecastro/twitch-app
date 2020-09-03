@@ -11,10 +11,10 @@ UI Clone (Mobile) - Twitch App
 
 ## Techs
 
-- [x] Expo
-- [x] React Native
-- [x] Styled Components
-- [x] TypeScript
+- ❎ Expo
+- ❎ React Native
+- ❎Styled Components
+- ❎TypeScript
 
 ## Starting Dev Environment
 
